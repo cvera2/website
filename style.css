@@ -1,3 +1,8 @@
+body {
+    background-image: url("swirl.jpeg");
+    background-repeat: repeat-y;
+} 
+
 
 .container {
 	width: 960px;
